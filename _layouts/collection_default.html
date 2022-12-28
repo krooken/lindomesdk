@@ -1,0 +1,9 @@
+---
+layout: menu_layout
+---
+<p>{{page.content}}</p>
+{% assign collection = site.collections | where: "label", page.collection_name | first %}
+{% for item in collection.docs %}
+<h2>{{item.title}}</h2>
+<p>{{item.content}}</p>
+{% endfor %}
