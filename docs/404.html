@@ -13,11 +13,58 @@
       img {
         max-width: 100%;
       }
+      h1, h2, h3 {
+        color: #262626;
+      }
+      .anchor_menu {
+        list-style: none;
+        padding: 0;
+        background-color: #cbcbcb;
+      }
+      .anchor_menu a {
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        color: #262626;
+        max-width: 150px;
+        font-weight: bold;
+      }
+      .anchor_menu a:hover {
+        background: #262626;
+        color: #f3f3f3;
+      }
+      #left_column, #body, #right_column {
+        float: left;
+      }
+      #left_column {
+        max-width: 150px;
+        width: 100%;
+      }
+      #right_column {
+        padding: 0 5px;
+        max-width: 230px;
+      }
+      #body {
+        max-width: 600px;
+        padding: 0 20px;
+      }
+      #link_bar {
+        display: none;
+      }
+      .main::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      * {
+        font-family: sans-serif;
+        box-sizing: border-box;
+      }
     </style>
   </head>
   <body>
     <div id="center_content">
-      <img src="assets/img/headerimg.jpg" />
+      <a href="/foreningen"><img src="assets/img/headerimg.jpg" /></a>
       <div class="container">
   <h1>404</h1>
 
@@ -25,7 +72,7 @@
   <p>Sidan du letar efter kunde inte hittas.</p>
 </div>
 
-      <footer>
+      <footer style="text-align: center;">
         &copy; Lindome Sportdykarklubb
       </footer>
     </div>

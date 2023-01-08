@@ -1,6 +1,7 @@
 ---
 title: Om klubben
 date: 2022-12-22 09:53:00
+permalink: om-klubben
 ---
 
 Lindome Sportdykarklubb (LSDK) är en ideell förening som har funnits sedan 1978. Idag har klubben ca 40 medlemmar i olika åldrar som sysslar med sport- och fridykning. Namnet till trots bedrivs verksamheten huvudsakligen i Göteborg med närområde, så om du är intresserad av dykning och bor i Göteborg så är detta klubben för dig.

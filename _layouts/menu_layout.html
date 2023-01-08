@@ -2,13 +2,16 @@
 layout: default
 ---
 <div id="link_bar">
-<a href="{% link introduction.md %}">Link</a>
+<a href="{% link introduction.md %}">Klubben</a>
 </div>
-<div>
+<div class="main">
 <div id="left_column">
-    <div id="anchors">
-
-    </div>
+    <ul class="anchor_menu">
+        {% assign collection = site.collections | where: "label", page.collection_name | first %}
+        {% for item in collection.docs %}
+        <li><a href="#{{ item.permalink }}">{{item.title}}</a></li>
+        {% endfor %}
+    </ul>
     <div id="facebook_feed"></div>
 </div>
 <div id="body">
@@ -18,6 +21,10 @@ layout: default
     </section>
 </div>
 <div id="right_column">
-<div id="instagram_feed"></div>
+<div id="instagram_feed">
+    <p><a href="https://www.instagram.com/sportdykninglindomesdk.nu/">Lindome SDK</a> på Instagram:</p>
+    <p><iframe class="snapwidget-widget" frameborder="0" scrolling="no" src="https://snapwidget.com/embed/935525" 
+        style="border: none; overflow: hidden; max-width: 100%; height: 1275px;"></iframe></p>
+</div>
 </div>
 </div>
