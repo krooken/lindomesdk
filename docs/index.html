@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Lindome SDK</title>
-    <link rel="icon" type="image/svg" href="assets/img/lsdk_logo.svg" />
+    <link rel="icon" type="image/svg" href="/assets/img/lsdk_logo.svg" />
     <style type="text/css" media="screen">
       #center_content {
         margin: 10px auto;
@@ -48,8 +48,31 @@
         max-width: 600px;
         padding: 0 20px;
       }
-      #link_bar {
-        display: none;
+      .horizontal_menu {
+        list-style: none;
+        padding: 0;
+        background-color: #cbcbcb;
+        display: flex;
+        margin: 0;
+      }
+      .horizontal_menu a {
+        display: inline-block;
+        padding: 10px;
+        text-decoration: none;
+        color: #262626;
+        font-weight: bold;
+      }
+      .horizontal_menu a:hover {
+        background: #262626;
+        color: #f3f3f3;
+      }
+      .horizontal_menu a.active {
+        background: #7990c5;
+        color: white;
+      }
+      .horizontal_menu a.active:hover {
+        background: #1d3c85;
+        color: white;
       }
       .main::after {
         content: "";
@@ -64,9 +87,16 @@
   </head>
   <body>
     <div id="center_content">
-      <a href="/foreningen"><img src="assets/img/headerimg.jpg" /></a>
+      <a href="/foreningen"><img src="/assets/img/headerimg.jpg" /></a>
       <div id="link_bar">
-<a href="/foreningen">Klubben</a>
+    <ul class="horizontal_menu">
+        <li>
+            <a href="/foreningen" class="active">Klubben</a>
+        </li>
+        <li>
+            <a href="/sportdykning" >Sportdykning</a>
+        </li>
+    </ul>
 </div>
 <div class="main">
 <div id="left_column">
@@ -118,7 +148,7 @@ Gå med i Lindome SDK!</li>
 <h2 id="sportdykning">Sportdykning</h2>
 <p><p>Vi kan erbjuda båtbaserad och landbaserad dykning för att tillgodose både de som är roade av vrakdyk och de som hellre gör naturdyk. När vi dyker inom klubbverksamheten utgår vi från de dykregler som finns i dykpraxis, dvs vi sätter säkerheten främst. Vi anpassar alltid val av dykplats till deltagarnas kunskapsnivå och erfarenhet men vi söker också gärna efter nya dykplatser. Våra utfärder innebär givetvis en social samvaro där hela familjen är välkommen att följa med.</p>
 
-<p>Klubben äger idag en styrpulpetsbåt på 6.4 m, med 150 Hk Mercury-motor. Den kan ta 6-8 dykare till dykplatser som ligger lite längre ut från land. Båten ligger i Fiskebäck så att vi snabbt kan komma ut till dykplatser i Göteborgs skärgård. Till båten har vi en bromsad trailer vilket gör att vi enkelt kan transportera den till dykplatser längre bort. Vi samåker gärna och hjälps åt med bestyren kring båten.</p>
+<p>Klubben äger idag en styrpulpetsbåt på 6,4 m, med 150 Hk Mercury-motor. Den kan ta 6–8 dykare till dykplatser som ligger lite längre ut från land. Båten ligger i Fiskebäck så att vi snabbt kan komma ut till dykplatser i Göteborgs skärgård. Till båten har vi en bromsad trailer vilket gör att vi enkelt kan transportera den till dykplatser längre bort. Vi samåker gärna och hjälps åt med bestyren kring båten.</p>
 
 <p><img src="/assets/img/tullboden-2011.jpg" /></p>
 
