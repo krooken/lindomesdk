@@ -2,7 +2,14 @@
 layout: default
 ---
 <div id="link_bar">
-<a href="{% link introduction.md %}">Klubben</a>
+    <ul class="horizontal_menu">
+        <li>
+            <a href="{% link introduction.md %}" {% if page.name == "introduction.md" or page.name == "index.md" %}class="active"{% endif %}>Klubben</a>
+        </li>
+        <li>
+            <a href="{% link scuba.md %}" {% if page.name == "scuba.md" %}class="active"{% endif %}>Sportdykning</a>
+        </li>
+    </ul>
 </div>
 <div class="main">
 <div id="left_column">
