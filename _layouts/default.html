@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{ site.title }}</title>
-    <link rel="icon" type="image/svg" href="assets/img/lsdk_logo.svg" />
+    <link rel="icon" type="image/svg" href="{% link assets/img/lsdk_logo.svg %}" />
     <style type="text/css" media="screen">
       #center_content {
         margin: 10px auto;
@@ -64,7 +64,7 @@
   </head>
   <body>
     <div id="center_content">
-      <a href="{% link introduction.md %}"><img src="assets/img/headerimg.jpg" /></a>
+      <a href="{% link introduction.md %}"><img src="{% link assets/img/headerimg.jpg %}" /></a>
       {{ content }}
       <footer style="text-align: center;">
         &copy; Lindome Sportdykarklubb
