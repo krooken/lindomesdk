@@ -4,10 +4,13 @@ layout: default
 <div id="link_bar">
     <ul class="horizontal_menu">
         <li>
-            <a href="{% link introduction.md %}" {% if page.name == "introduction.md" or page.name == "index.md" %}class="active"{% endif %}>Klubben</a>
+            <a href="{% link index.md %}" {% if page.name == "index.md" %}class="active"{% endif %}>Hem</a>
         </li>
         <li>
             <a href="{% link scuba.md %}" {% if page.name == "scuba.md" %}class="active"{% endif %}>Sportdykning</a>
+        </li>
+        <li>
+            <a href="{% link association.md %}" {% if page.name == "association.md" %}class="active"{% endif %}>Föreningen</a>
         </li>
     </ul>
 </div>

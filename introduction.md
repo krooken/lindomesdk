@@ -2,7 +2,7 @@
 title: Välkommen till Lindome Sportdykarklubb!
 collection_name: introduction
 layout: collection_default
-permalink: foreningen
+permalink: hem
 ---
 Är du dykare och bor nära Göteborg eller Mölndal?
 Söker du
