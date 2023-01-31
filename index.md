@@ -5,6 +5,7 @@ layout: collection_default
 ---
 Är du dykare och bor nära Göteborg eller Mölndal?
 Söker du
+
 - någon rolig att dyka med?
 - roliga dykutfärder från land och båt?
 - enkel tillgång till flaskfyllning?
