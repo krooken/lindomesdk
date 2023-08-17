@@ -26,7 +26,7 @@ Vid hyra av flaska skall den återlämnas fylld.
 
 Vid långtidshyra kan man få en lägre dygnskostnad.
 
-Kontakta ordförande i föreningen via {{ 'ordforande@lindomesdk.nu' | obfuscate_email }} för att hyra utrustning.
+Kontakta ordförande i föreningen via <ordforande@lindomesdk.nu> för att hyra utrustning.
 
 Betala in hyresavgiften till klubbens bankgirokonto 153-1862 eller Swisha till nummer 123 617 84 04. Ange namn samt hyra dykpaket eller torrdräkt.
 

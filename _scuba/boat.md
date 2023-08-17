@@ -17,12 +17,12 @@ Båtgruppen består idag av följande medlemmar:
 
 | Namn: | E-post: | Mobiltel: |
 |:------|:--------|:----------|
-| Andreas Johansson | {{ "andreas.johansson@zitac.se" | obfuscate_email }} | 0706-187135 |
-| Kristian Holmberg | {{ "holmberg.k@gmail.com" | obfuscate_email }} | 0707-744739 |
-| Alf Holmberg | {{ "alf_holmberg@hotmail.com" | obfuscate_email }} | 0730-947448 |
-| Patrik Karisaar | {{ "patrikkarisaar@gmail.com" | obfuscate_email }} | 0709-791333 |
+| Andreas Johansson | <andreas.johansson@zitac.se> | 0706-187135 |
+| Kristian Holmberg | <holmberg.k@gmail.com> | 0707-744739 |
+| Alf Holmberg | <alf_holmberg@hotmail.com> | 0730-947448 |
+| Patrik Karisaar | <patrikkarisaar@gmail.com> | 0709-791333 |
 | Daniel Bengtsson | 
-| Thomas Petig | {{ "thomas@petig.eu" | obfuscate_email }} | 
+| Thomas Petig | <thomas@petig.eu> | 
 
 Thomas Petig är sammankallande och kontaktpersoner i båtgruppen.
 

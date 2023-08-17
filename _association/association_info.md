@@ -10,7 +10,7 @@ Lindome Sportdykarklubb (LSDK) har sitt säte i Mölndals kommun. Årsmöte sker
 - Föreningsnummer: 19287-49
 - Postadress: c/o Thomas Petig, Hagåkersgatan 18D, 43141 Mölndal
 - Besöksadress: Aktiviteten, Frejagatan, 43143 Mölndal
-- Emejl: {{ 'styrelse@lindomesdk.nu' | obfuscate_email }}
+- Emejl: <styrelse@lindomesdk.nu>
 - Bankgiro: 153-1862
 - Swish: 1236178404
 - Organisationsnummer: 852000-6324
