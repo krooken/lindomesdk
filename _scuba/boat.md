@@ -24,7 +24,7 @@ Båtgruppen består idag av följande medlemmar:
 | Daniel Bengtsson | 
 | Thomas Petig | <thomas@petig.eu> | 
 
-Thomas Petig är sammankallande och kontaktpersoner i båtgruppen.
+Thomas Petig är sammankallande och kontaktperson i båtgruppen.
 
 Samtliga i båtgruppen är även av styrelsen godkända klubbåtsförare. Båtgruppens arbetsuppgifter består bland annat i att utbilda förare till klubbåten och att budgetera kostnader för båten. Även viss skötsel (motor, reglagedetaljer, vinterkonservering) handhas av båtgruppen.
 
