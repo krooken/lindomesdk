@@ -33,4 +33,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
+# Add webrick to make bundle work with jekyll
 gem "webrick", "~> 1.7"
+
+# Makefiles for ruby
+gem "rake", "~> 13.0.6"
