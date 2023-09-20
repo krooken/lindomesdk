@@ -4,12 +4,12 @@ date: 2022-12-22 09:56:00
 permalink: bli-medlem
 ---
 
-Vad får du som medlem?
+Vad kan Lindome SDK erbjuda dig?
 
 <!--Gratis inträde till Åbybadet lördageftermiddagar under träningssäsongen.-->
 <!--Åbybadet är stängt i väntan på renovering.-->
 - Dykförsäkring genom Svenska Sportdykarförbundet (SSDF)
-- Gratis luftfyllning via kubbens kompressor (finns på Aktiviteten)
+- Gratis luftfyllning via kubbens kompressor (finns vid Åbybadet)
 - Möjlighet att gå utbildningar inom klubben
 - Tillgång till klubbens dykbåt
 - Erbjudande att delta i klubbens dykutflykter
@@ -17,9 +17,14 @@ Vad får du som medlem?
 - Förmånliga priser på hyra av full dykutrustning
 - Trevligt sällskap av likasinnade!
 
+
+Alla klubbens medlemmar får ta del av klubbens kommunikation och gemenskap, samt får delta på årsmötet som hålls i början av varje år. För att vara medlem skall medlemsavgiften betalas årligen.
+
+För att ta del av övriga aktiviteter och förmåner inom klubben skall man som medlem betala aktivitetsavgift årligen.
+
 ### Priser för 2023.
 
-För att delta i föreningens aktiviteter och nyttja dess förmåner behöver du betala både medlems- och aktivitetsavgift.
+För att delta i alla föreningens aktiviteter och nyttja dess samtliga förmåner behöver du betala både medlems- och aktivitetsavgift.
 
 - Medlemsavgift: 100 kr
 - Aktivitetsavgift:
