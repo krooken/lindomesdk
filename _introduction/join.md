@@ -9,12 +9,12 @@ Vad kan Lindome SDK erbjuda dig?
 <!--Gratis inträde till Åbybadet lördageftermiddagar under träningssäsongen.-->
 <!--Åbybadet är stängt i väntan på renovering.-->
 - Dykförsäkring genom Svenska Sportdykarförbundet (SSDF)
-- Gratis luftfyllning via kubbens kompressor (finns vid Åbybadet)
+- Gratis luftfyllning via klubbens kompressor (finns vid Åbybadet)
 - Möjlighet att gå utbildningar inom klubben
 - Tillgång till klubbens dykbåt
 - Erbjudande att delta i klubbens dykutflykter
 - Prenumeration på onlinemagasinet DYK.net
-- Förmånliga priser på hyra av full dykutrustning
+- Förmånliga priser på hyra av komplett eller delar av dykutrustning
 - Trevligt sällskap av likasinnade!
 
 
@@ -46,7 +46,8 @@ Skicka dina personuppgifter till klubbens kassör (kassor@lindomesdk.nu) inklusi
 - personnummer (vi behöver detta för försäkringen)
 - telefonnummer
 - emejladress
-- adress
+- hemadress
+- vilka dykcert du har.
 
 Betala in medlems- och aktivitetsavgift på något av följande sätt:
 - Bankgirokonto 153-1862
