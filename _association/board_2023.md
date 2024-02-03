@@ -10,9 +10,7 @@ Vill du skicka ett mail med en fråga till hela styrelsen? Använd då adressen 
 | Manfred Månmyr | Ordförande | <ordforande@lindomesdk.nu> | |
 | Thomas Petig | Kassör | <kassor@lindomesdk.nu> | 0704-342723 |
 | Jessica Petig | Ledamot | | |
-| Henrik Wettervik | Ledamot | | |
 | Jonas Krook | Ledamot | <krook.jonas@gmail.com> | |
 | Janaina Rudberg | Suppleant | | |
 | Håkan Järbin | Suppleant | | |
-| Abudharr Mahmoud | Suppleant | | |
 | Johnny Österberg | Suppleant | | |
