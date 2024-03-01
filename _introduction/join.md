@@ -22,7 +22,7 @@ Alla klubbens medlemmar får ta del av klubbens kommunikation och gemenskap, sam
 
 För att ta del av övriga aktiviteter och förmåner inom klubben skall man som medlem betala aktivitetsavgift årligen.
 
-### Priser för 2023.
+### Priser för 2024.
 
 För att delta i alla föreningens aktiviteter och nyttja dess samtliga förmåner behöver du betala både medlems- och aktivitetsavgift.
 

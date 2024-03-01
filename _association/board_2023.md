@@ -2,6 +2,7 @@
 title: Styrelse 2023
 date: 2022-12-22 09:55:00
 permalink: styrelse-2023
+published: false
 ---
 Vill du skicka ett mail med en fråga till hela styrelsen? Använd då adressen <styrelse@lindomesdk.nu>. Styrelsen för 2023 består av följande personer.
 
